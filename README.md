@@ -52,3 +52,8 @@ Here is a list of technologies that will be used in the project:
    ```bash
    git clone https://github.com/yourusername/recipe-chatbot.git
    cd recipe-chatbot
+
+   libraries to install 
+   keras
+   tensorflow
+   pandas
