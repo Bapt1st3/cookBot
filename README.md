@@ -57,3 +57,5 @@ Here is a list of technologies that will be used in the project:
    keras
    tensorflow
    pandas
+   seaborn
+   scikit-learn
